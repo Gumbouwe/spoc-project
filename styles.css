@@ -1,0 +1,92 @@
+body{
+  background-image:url("https://i.pinimg.com/originals/3a/36/7d/3a367d21a4a4ef53d891241e9d385afb.jpg");
+  background-image:no-repeat;
+  background-size:cover;
+  font-family:sans serif;
+
+  
+}
+h1{
+  color:blue;
+  text-align:center;
+  font-style:italic;
+  font-weight:bold;
+}
+
+h2{
+  color:green;
+  background-color:pink;
+}
+
+ul> li{
+ list-style:none;
+ display:inline;
+ color:blue;
+ text-decoration:none;
+ margin-left:10px;
+ padding-right:10px;
+ float:right;
+}
+
+.tour p{
+  font-size:30px;
+  border : 3px solid #008080;
+  color:black;
+  position:relative;
+  left: 20px;
+  color:#ffb3b3;
+}
+   
+h3{
+  color: blue;
+}
+ #social h2{
+  color:  #cc6600;
+  background-color:#3333cc;
+ }
+ 
+  #museum ul li{
+   margin-top:30px; 
+   float:right;
+   margin-right:20px;
+   padding-right:10px;
+   }
+   
+   .footer{
+    width:auto;
+    text-align:centre;
+    margin-top:1000px;
+    margin-left:500px;
+    color:#990000;
+   }
+   
+   table td,th{
+     color:#ffffff;
+   }
+  
+ 
+   
+ 
+   
+ 
+
+
+  
+
+
+
+
+
+    
+  
+
+  
+
+
+
+  
+
+  
+
+
+  
